@@ -180,9 +180,10 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   for more information.
 </p>
 
+{% comment %} 
 <hr/>
 
-{% comment %} 
+
  SURVEYS - DO NOT EDIT SURVEY LINKS 
 
 <h2 id="surveys">Surveys</h2>
