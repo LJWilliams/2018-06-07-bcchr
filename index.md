@@ -135,7 +135,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
   Modify the block below if there are any barriers to accessibility or
   special instructions.
-{% endcomment %}
+
 <p id="accessibility">
   <strong>Accessibility:</strong> We are committed to making this workshop
   accessible to everybody.
@@ -153,6 +153,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   get in touch (using contact details below) and we will
   attempt to provide them.
 </p>
+{% endcomment %}
 
 {% comment %}
   CONTACT EMAIL ADDRESS
