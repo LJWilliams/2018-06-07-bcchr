@@ -46,7 +46,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </iframe>
 {% endif %}
 
-<h4>This is NOT an official Software Carpentry workshop, because we will not have time to cover all the core aspects of a SWC workshop.</h4>
+<h4>This is NOT an official Software Carpentry workshop, because we will not have time to cover all the core lessons. However, almost all of the material has been developed and vetted by the volunteers at SWC. Thank-you for your contributions to our python workshop.</h4>
 
 <h2 id="general">General Information</h2>
 
