@@ -46,7 +46,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </iframe>
 {% endif %}
 
-<h4>This is NOT an official Software Carpentry workshop, because we will not have time to cover all the core lessons. However, almost all of the material has been developed and vetted by the volunteers at SWC. Thank-you for your contributions to our python workshop.</h4>
+<h4>This is NOT an official Software Carpentry workshop, because we will not have time to cover all the core lessons. However, almost all of the material has been developed and vetted by the volunteers at SWC. Thank-you for all their contributions to our python workshop.</h4>
 
 <h2 id="general">General Information</h2>
 
@@ -184,7 +184,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 {% comment %} 
  SURVEYS - DO NOT EDIT SURVEY LINKS 
-{% endcomment %}
+
 <h2 id="surveys">Surveys</h2>
 
 {% if page.carpentry == "swc" %} 
@@ -198,7 +198,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% elsif page.carpentry == "lc" %}
 <p>Ask your instructor about pre- and post-workshop Survey details.</p>
 {% endif %}
-
+{% endcomment %}
 <hr/>
 
 
