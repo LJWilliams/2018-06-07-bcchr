@@ -198,9 +198,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% elsif page.carpentry == "lc" %}
 <p>Ask your instructor about pre- and post-workshop Survey details.</p>
 {% endif %}
-{% endcomment %}
-<hr/>
 
+<hr/>
+{% endcomment %}
 
 {% comment %}
   SCHEDULE
